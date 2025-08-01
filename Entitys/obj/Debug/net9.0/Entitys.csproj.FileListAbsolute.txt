@@ -1,0 +1,13 @@
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\bin\Debug\net9.0\Entitys.deps.json
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\bin\Debug\net9.0\Entitys.dll
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\bin\Debug\net9.0\Entitys.pdb
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.csproj.AssemblyReference.cache
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.AssemblyInfoInputs.cache
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.AssemblyInfo.cs
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.csproj.CoreCompileInputs.cache
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.sourcelink.json
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.dll
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\refint\Entitys.dll
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\Entitys.pdb
+C:\GitHub\CachuelosSa\ApiCachuelos\Entitys\obj\Debug\net9.0\ref\Entitys.dll
