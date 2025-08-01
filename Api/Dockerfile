@@ -11,7 +11,7 @@ ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
 # Copia el archivo .sln
-COPY ["app.sln", "./"]
+COPY ["ApiCachuelos.sln", "./"]
 
 # Copia los archivos .csproj de cada proyecto y luego realiza el restore
 COPY ["Api/Api.csproj", "Api/"]
@@ -21,7 +21,7 @@ COPY ["Repositories/Repositories.csproj", "Repositories/"]
 COPY ["Utils/Utils.csproj", "Utils/"]
 
 # Realiza el restore usando la solución (esto es más eficiente y resuelve dependencias correctamente)
-RUN dotnet restore "app.sln"
+RUN dotnet restore "ApiCachuelos.sln"
 
 # Copia todo el resto del código
 COPY . .
